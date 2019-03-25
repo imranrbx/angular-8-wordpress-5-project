@@ -1,1 +1,23 @@
 /* You can add global styles to this file, and also import other style files */
+img {
+  width: auto;
+  height: 100%;
+}
+
+.alignnone {
+  width: 100%;
+  height: 100%;
+}
+
+img.alignright {
+  float: right;
+}
+
+figure.alignnone img {
+  width: 100%;
+  height: 100%;
+}
+
+.alignleft {
+  float: left;
+}
